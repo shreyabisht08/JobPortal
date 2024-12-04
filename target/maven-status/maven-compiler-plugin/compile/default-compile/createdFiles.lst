@@ -1,0 +1,8 @@
+com\jobportal\dao\JobDAO.class
+com\jobportal\model\Job.class
+com\jobportal\dao\UserDAO.class
+com\jobportal\util\DBConnection.class
+com\jobportal\util\DBConnectionTest.class
+com\jobportal\model\User.class
+com\jobportal\dao\TestJobDAO.class
+com\jobportal\dao\TestUserDAO.class
