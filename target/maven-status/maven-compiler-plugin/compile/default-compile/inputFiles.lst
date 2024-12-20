@@ -1,8 +1,13 @@
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\servlets\LogoutServlet.java
 C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\dao\JobDAO.java
-C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\dao\TestJobDAO.java
 C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\dao\TestUserDAO.java
-C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\dao\UserDAO.java
 C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\model\Job.java
-C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\model\User.java
-C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\util\DBConnection.java
 C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\util\DBConnectionTest.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\servlets\RegisterServlet.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\dao\TestJobDAO.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\util\DBConnection.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\servlets\ApplicationsServlet.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\dao\UserDAO.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\model\User.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\servlets\LoginServlet.java
+C:\Users\shrey\Documents\All_eclipse_workspace\JobPortal\src\main\java\com\jobportal\servlets\ApplyServlet.java
